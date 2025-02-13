@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [surajDahal007](GitHuB Profile)
 
-- 📫 How to reach me **engg.dahalsuraj@gmail.com**
+- 📫 How to reach me: **engg.dahalsuraj@gmail.com**
 
 - ⚡ Fun fact **Bananas are berries, but strawberries aren’t! 🍌🍓🤯**
 
