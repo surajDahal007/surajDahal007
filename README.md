@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **engg.dahalsuraj@gmail.com**
 
-- ⚡ Fun fact: **The first website ever made is still online—it was created by Tim Berners-Lee in 1991. You can visit it at info.cern.ch! 🌍✨**
+- ⚡ Fun fact: **The first website ever made is still online**—it was created by Tim Berners-Lee in 1991. You can visit it at **info.cern.ch 🌍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
